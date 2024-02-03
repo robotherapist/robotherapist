@@ -1,4 +1,4 @@
-*Testing software and artificial intelligence...*
+*Testing software and artificial intelligence...* 👨‍💻🔧🤖
 
 <!--
 **robotherapist/robotherapist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
